@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: Cloud Migration Guide Texas
+description: Step-by-step cloud migration guide for Texas businesses
+google_analytics: # Add GA ID here
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
